@@ -1,6 +1,6 @@
 # android-conversormoedas
 
-App Android de conversão de moedas do Real para Dólar e Euro
+App Android de conversão de moedas do Real para Dólar, Euro e Peso Argentino.
 
 <p align="center">
 <img width="250" alt="convertervalor-app1" src="https://user-images.githubusercontent.com/44841405/83021702-c6902100-a000-11ea-98b8-18b8936d0aa4.png">
