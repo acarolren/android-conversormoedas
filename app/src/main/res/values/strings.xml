@@ -5,4 +5,5 @@
     <string name="valorEuro">Valor em euro</string>
     <string name="calcular">Calcular</string>
     <string name="informeValor">Informe um valor</string>
+    <string name="valorPeso">Valor em peso</string>
 </resources>
